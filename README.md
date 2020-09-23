@@ -22,3 +22,8 @@ print after - before;
 ```
 
 ### Build/Run
+```
+import folder into IntelliJ IDEA and run Lox.kt
+  => Lox.kt <path_to_source>
+  => Lox.kt // starts REPL
+```
